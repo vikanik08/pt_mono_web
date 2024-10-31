@@ -1304,7 +1304,10 @@ margin: -50px 0 0 400px;
     margin: 3px 500px 0 0;
     text-transform: uppercase;
 }
-
+.yes a {
+    color: #ffffff;
+    text-decoration: none;
+}
 .no {
     color: #357C05;
     font-size: 90px;
