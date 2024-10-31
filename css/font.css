@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "PTMono-Regular";
+    src: url(./PTMono-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+ /* h1 {
+    font-family: "PTMono-Regular";
+ } */
+
+ /* @font-face {
+    font-family: "FiraSans-Black";
+    src: url(../Fira_Sans/FiraSans-Black.ttf) format("truetype");
+    font-style: bold;
+    font-weight: bold;
+} */
